@@ -4,6 +4,8 @@
 
 [lzy-codec-py](https://github.com/lizongying/lzy-codec-py)
 
+[pypi](https://pypi.org/project/lzy-codec)
+
 ## Other languages
 
 [lzy-codec-go](https://github.com/lizongying/lzy-codec-go)
@@ -17,10 +19,10 @@ pip install lzy_codec
 ## example
 
 ```
-from lzy_codec import encode_from_string, decode_to_string
-r = encode_from_string('hello，世界')
+from lzy_codec import lzy
+r = lzy.encode_from_string('hello，世界')
 print(r)
 
-r = decode_to_string(r)
+r = lzy.decode_to_string(r)
 print(r)
 ```
