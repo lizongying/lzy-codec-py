@@ -1,6 +1,6 @@
 # LZY Codec
 
-一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。python實現
+一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。python實現。
 
 [github](https://github.com/lizongying/lzy-codec-py)
 
