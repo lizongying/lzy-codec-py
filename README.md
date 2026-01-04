@@ -1,22 +1,28 @@
 # LZY Codec
 
-一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。
+一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。python實現
 
-[lzy-codec-py](https://github.com/lizongying/lzy-codec-py)
+[github](https://github.com/lizongying/lzy-codec-py)
 
 [pypi](https://pypi.org/project/lzy-codec)
 
+更多cli工具請參考 [go](https://github.com/lizongying/lzy-codec-go)
+
 ## Other languages
 
-[lzy-codec-go](https://github.com/lizongying/lzy-codec-go)
+* [go](https://github.com/lizongying/lzy-codec-go)
+* [js](https://github.com/lizongying/lzy-codec-js)
+* [c](https://github.com/lizongying/lzy-codec-c)
+* [php](https://github.com/lizongying/lzy-codec-php)
+* [dotnet](https://github.com/lizongying/lzy-codec-dotnet)
 
-## install
+## Install
 
 ```
 pip install lzy_codec
 ```
 
-## example
+## Examples
 
 ```
 from lzy_codec import lzy
