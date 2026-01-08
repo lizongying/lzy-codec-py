@@ -15,6 +15,12 @@
 * [c](https://github.com/lizongying/lzy-codec-c)
 * [php](https://github.com/lizongying/lzy-codec-php)
 * [dotnet](https://github.com/lizongying/lzy-codec-dotnet)
+* [rust](https://github.com/lizongying/lzy-codec-rs)
+* [dart](https://github.com/lizongying/lzy-codec-dart)
+* [swift](https://github.com/lizongying/lzy-codec-swift)
+* [kt](https://github.com/lizongying/lzy-codec-kt)
+* [ruby](https://github.com/lizongying/lzy-codec-rb)
+* [wasm](https://github.com/lizongying/lzy-codec-wasm)
 
 ## Install
 
